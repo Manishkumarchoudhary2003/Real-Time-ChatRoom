@@ -4,6 +4,9 @@ This project is a real-time chat application developed using Spring Boot and Web
 It allows users to engage in live messaging with each other over the web. The backend of the application is built with Spring Boot, 
 providing RESTful endpoints for handling WebSocket connections and message exchanges.
 
+https://github.com/Manishkumarchoudhary2003/Real-Time-ChatRoom/assets/107823673/e6ffcb09-cb9b-4f7d-9e21-27c1a313a768
+
+
 
 # Tools Used
 
